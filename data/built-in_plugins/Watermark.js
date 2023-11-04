@@ -58,7 +58,7 @@ function ElainaTrigger() {
 		wtmark.innerHTML = "";
 	}
 	else {
-		wtmark.innerHTML = "By Elaina Da Catto";
+		wtmark.innerHTML = "yung";
 	}
 
 	Greeting.classList.add ("Greeting")
